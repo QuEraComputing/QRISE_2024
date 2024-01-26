@@ -1,4 +1,4 @@
-# QRISE_2024
+# QRISE - 2024
 
 Welcome to the repository for QuEra's 2024 challenge for QRISE. 
 
@@ -31,3 +31,10 @@ Supporting references:
 * https://arxiv.org/abs/2311.16214
 * https://arxiv.org/abs/2311.16035
 
+
+## Submission process
+
+* write up
+* video? 
+
+Fork repo?
