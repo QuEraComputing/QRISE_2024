@@ -34,7 +34,8 @@ Supporting references:
 
 ## Submission process
 
-* write up
-* video? 
+Your team will need to first fork this repository (only one team member needs to do this). It is advisable to only put your **FINAL SUBMISSION** material in the repo as all work on the forked repositories is public.
 
-Fork repo?
+Your submission should include:
+* A write-up (this can be a single PDF or Markdown file committed to the forked repo)
+* A video (this should be hosted elsewhere and linked to in the write-up)
