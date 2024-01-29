@@ -4,10 +4,10 @@ Welcome to the repository for QuEra's 2024 challenge for QRISE.
 
 ## Challenge statement: 
 
-Create a compilation visualizer for neutral-atom gate-based quantum computers. While you can be creative about what this can actually mean (and the context below will help you imagine ideas) here are a few ideas of features for your program:
-*	Ingest a quantum algorithm in terms of a list of gates and qubit register
-* 	Use a theoretical model for a neutral-atom quantum computer based on qubit shuttling architectures with processing, memory, and measurement zones. The model can include performance parameters for shuttling (speeds, coherence loss), 2-qubit and 1-qubit gate fidelities, gate speeds, physical sizes of zones (which you may choose to allow a user to change/define)
-*	Output a visualization of the atom moves and gate applications (in terms of beam pulses) that compile the algorithm of choice. It should output the time expected to be necessary to run the algorithm, and expected performance given accumulation of noise
+Create a compilation visualizer for neutral-atom gate-based quantum computers. While you can be creative about what this could actually mean (and the context below will help you imagine) here are a few ideas of features for your program:
+*	It could ingest a quantum algorithm in terms of a list of gates and qubit register
+* 	It may use a theoretical model for a neutral-atom quantum computer based on qubit shuttling architectures with processing, memory, and measurement zones. The model can include performance parameters for shuttling (speeds, coherence loss), 2-qubit and 1-qubit gate fidelities, gate speeds, physical sizes of zones (which you may choose to allow a user to change/define)
+*	For output, it may show a visualization of the atom moves and gate applications (in terms of beam pulses) that compile the algorithm of choice. It should output the time expected to be necessary to run the algorithm, and expected performance given accumulation of noise
 *	Bonus points if your program can perform a couple of logical qubit encoding protocols, automatically transforming the original logical qubit into a full compiled program including routines for error correction
 
 ## Context: 
